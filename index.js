@@ -1,3 +1,3 @@
-const useFunicular = ()=> {
-    console.log('the curliest cablecar ever')
-}
+const useFunicular = () => {
+  console.log('NOT ACTUALLY the curliest cablecar ever');
+};
